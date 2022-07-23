@@ -10,6 +10,7 @@ import mySaga from "./sagas";
 //Test forth
 //Test fifth
 //Test sixth
+//Test seventh
 // create the saga middleware
 const sagaMiddleware = createSagaMiddleware();
 // mount it on the Store
