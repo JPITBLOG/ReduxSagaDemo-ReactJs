@@ -4,6 +4,9 @@ import createSagaMiddleware from "redux-saga";
 import reducer from "./reducers";
 import mySaga from "./sagas";
 
+//Test commit
+//Test commit sec
+//Test commit third
 // create the saga middleware
 const sagaMiddleware = createSagaMiddleware();
 // mount it on the Store
