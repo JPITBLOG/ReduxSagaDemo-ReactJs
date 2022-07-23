@@ -7,6 +7,9 @@ import mySaga from "./sagas";
 //Test commit
 //Test commit sec
 //Test commit third
+//Test forth
+//Test fifth
+//Test sixth
 // create the saga middleware
 const sagaMiddleware = createSagaMiddleware();
 // mount it on the Store
