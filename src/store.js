@@ -5,6 +5,7 @@ import reducer from "./reducers";
 import mySaga from "./sagas";
 
 //Test commit
+//Test commit sec
 // create the saga middleware
 const sagaMiddleware = createSagaMiddleware();
 // mount it on the Store
